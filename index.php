@@ -7,7 +7,7 @@ require '../src/facebook.php';
 
 $facebook = new Facebook(array(
   'appId'  => '116117598455174',
-  'secret' => '277ad601c003df19c31334134f635025',
+  'secret' => '',
   'cookie' => true,
 ));
 
